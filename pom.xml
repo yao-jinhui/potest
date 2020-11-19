@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.yy</groupId>
-    <artifactId>com.seleniumTest</artifactId>
+    <artifactId>com.seleniumTest.SeleniumTest</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
@@ -64,6 +64,11 @@
             <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
             <version>1.23</version>
+        </dependency>
+        <dependency>
+            <groupId>com.ebtce.open.common</groupId>
+            <artifactId>ebtce-service-open-common</artifactId>
+            <version>1.1</version>
         </dependency>
     </dependencies>
 
